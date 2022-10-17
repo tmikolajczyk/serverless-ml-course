@@ -1,0 +1,22 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+streamlit = "*"
+faker = "*"
+parsedatetime = "*"
+hopsworks = "*"
+nbconvert = "*"
+scikit-learn = "*"
+plotly = "*"
+pillow = "*"
+seaborn = "*"
+dataframe-image = "*"
+jupyterlab = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"

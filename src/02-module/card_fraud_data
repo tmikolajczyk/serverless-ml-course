@@ -1,0 +1,13 @@
+<html>
+<head><title>Index of /master/hopsworks-tutorials/data/card_fraud_data/</title></head>
+<body>
+<h1>Index of /master/hopsworks-tutorials/data/card_fraud_data/</h1><hr><pre><a href="../">../</a>
+<a href="credit_cards.csv">credit_cards.csv</a>                                   20-Jun-2022 07:18               56024
+<a href="credit_cards.parquet">credit_cards.parquet</a>                               29-Sep-2022 21:36               23668
+<a href="credit_cards_with_date_added.csv">credit_cards_with_date_added.csv</a>                   02-Sep-2022 05:09               98926
+<a href="profiles.csv">profiles.csv</a>                                       20-Jun-2022 07:18              158631
+<a href="profiles.parquet">profiles.parquet</a>                                   29-Sep-2022 21:36               90534
+<a href="transactions.csv">transactions.csv</a>                                   20-Jun-2022 07:18            13351671
+<a href="transactions.parquet">transactions.parquet</a>                               29-Sep-2022 21:36             6206531
+</pre><hr></body>
+</html>
