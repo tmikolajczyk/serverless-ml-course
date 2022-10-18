@@ -1,0 +1,54 @@
+{
+  "input_schema": {
+    "columnar_schema": [
+      {
+        "name": "category",
+        "type": "int64"
+      },
+      {
+        "name": "amount",
+        "type": "float64"
+      },
+      {
+        "name": "age_at_transaction",
+        "type": "float64"
+      },
+      {
+        "name": "days_until_card_expires",
+        "type": "float64"
+      },
+      {
+        "name": "loc_delta_t_minus_1",
+        "type": "float64"
+      },
+      {
+        "name": "time_delta_t_minus_1",
+        "type": "float64"
+      },
+      {
+        "name": "trans_volume_mstd",
+        "type": "float64"
+      },
+      {
+        "name": "trans_volume_mavg",
+        "type": "float64"
+      },
+      {
+        "name": "trans_freq",
+        "type": "float64"
+      },
+      {
+        "name": "loc_delta_mavg",
+        "type": "float64"
+      }
+    ]
+  },
+  "output_schema": {
+    "columnar_schema": [
+      {
+        "name": "fraud_label",
+        "type": "int64"
+      }
+    ]
+  }
+}
